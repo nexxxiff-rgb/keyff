@@ -1,19 +1,16 @@
-[
   {
-    "id": "4f500652c190a0ea",
-    "username": "kp",
-    "password": "123",
-    "expiresAt": "2026-9-18",
-    "allowOffline": true
-  }.
-{
-    "id": "4f500652c190a0ea",
-    "username": "kp",
-    "password": "123",
-    "expiresAt": "2026-9-18",
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
-    {
+  {    "id": "4f500652c190a0ea",
+    "username": "kashiram",
+    "password": "7452",
+    "expiresAt": "2026-9-16",
+    "allowOffline": true
+  },
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",

@@ -11,7 +11,7 @@
     "username": "jpmods",
     "password": "jpmods",
     "expiresAt": "2026-9-15",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
